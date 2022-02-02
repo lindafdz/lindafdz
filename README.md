@@ -6,7 +6,7 @@
 
 I am Linda Fernández. from Mexico, currently studying Computers engineering @UPIICSA.
 
-<h3> I am a padawan @Hackademy in the Skills for Women in Tech program. <img src=https://images.emojiterra.com/google/android-pie/512px/1f49c.pngwidth="30px"></h3>
+I am a padawan @Hackademy in the Skills for Women in Tech program. 
 
 I love FOSS and Free Culture. 
 
