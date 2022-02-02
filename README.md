@@ -9,4 +9,4 @@ I am a padawan @Hackademy in the Skills for Women in Tech program.
 
 I love FOSS and Free Culture. 
 
-!Follow me on [Twitter](https://twitter.com/lalieblich)
+Follow me on [Twitter](https://twitter.com/lalieblich)
