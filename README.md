@@ -8,3 +8,5 @@ I am Linda Fernández. from Mexico, currently studying Computers engineering @UP
 I am a padawan @Hackademy in the Skills for Women in Tech program.
 
 I love FOSS and Free Culture. 
+
+[Harsh Twitter](https://twitter.com/lalieblich)
