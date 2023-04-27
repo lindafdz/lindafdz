@@ -2,12 +2,11 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://www.icegif.com/wp-content/uploads/2022/05/icegif-373.gif' width='200"'>
 
-I am Linda Fernández. from Mexico, currently studying Computers engineering @UPIICSA.
-
-
-I love FOSS and Free Culture. 
+I am Linda Fernández. from Mexico, currently studying Computers engineering @UPIICSA.<br>
+🧙‍♀ Working as digital security analist @SocialTIC. 
+❤️🐧 I love FOSS and Free Culture. 
 
 
 <p align="left"> <a href="https://twitter.com/lalieblich" target="blank"><img src="https://img.shields.io/twitter/follow/lalieblich?logo=twitter&style=for-the-badge" alt="lalieblich" /></a> </p>
