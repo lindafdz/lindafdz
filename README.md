@@ -11,7 +11,7 @@ I am Linda Fernández. from Mexico, currently studying Computers engineering @UP
 
 <p align="left"> <a href="https://twitter.com/lalieblich" target="blank"><img src="https://img.shields.io/twitter/follow/lalieblich?logo=twitter&style=for-the-badge" alt="lalieblich" /></a> </p>
 
-- 🌱 I’m currently learning **how to make cool web pages**
+- 🌱 I’m currently learning how to make **cool web pages** and being an *script kiddie*
 
 - 💬 Ask me about **FOSS, videogames, cats**
 
