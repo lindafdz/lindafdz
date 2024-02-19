@@ -5,7 +5,7 @@
 <img align='right' src='https://www.icegif.com/wp-content/uploads/2022/05/icegif-373.gif' width='200"'>
 
 I am Linda Fernández. from Mexico, currently studying Computers engineering @UPIICSA.<br>
-🧙‍♀ Working as digital security analist @SocialTIC. <br>
+🧙‍♀ Working as digital security analist and sysadmin @SocialTIC. <br>
 ❤️🐧 I love FOSS and Free Culture. 
 
 
